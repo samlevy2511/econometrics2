@@ -1,0 +1,11 @@
+cd "/Users/samuel/Google Drive/PhD/PhD courses/Econometrics II"
+git clone https://github.com/samlevy2511/econometrics2.git
+
+echo "# econometrics2" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/samlevy2511/econometrics2.git
+git push -u origin master
+
+cd "/Users/samuel/Google Drive/PhD/PhD courses/Econometrics II"
